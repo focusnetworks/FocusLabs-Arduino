@@ -1,7 +1,6 @@
-# Focuslabs-Arduino
-===================
+# Focuslabs-ArduinoJS
 
-An repo with our experiments with Arduino and Javascript
+>An repo with our experiments with Arduino and Javascript
 
 ## License
 
